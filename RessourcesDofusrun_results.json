@@ -1,0 +1,3613 @@
+{
+ "Nom_ressource": [
+  {
+   "name": "Binar"
+  },
+  {
+   "name": "Djim"
+  },
+  {
+   "name": "Korria"
+  },
+  {
+   "name": "Boble magristrale"
+  },
+  {
+   "name": "Teleb magistrale"
+  },
+  {
+   "name": "Sak magistrale"
+  },
+  {
+   "name": "Nahuatl"
+  },
+  {
+   "name": "Dagob magistrale"
+  },
+  {
+   "name": "Pikmi magistrale"
+  },
+  {
+   "name": "Zaihn magistrale"
+  },
+  {
+   "name": "Butor magistrale"
+  },
+  {
+   "name": "Pétunia magistrale"
+  },
+  {
+   "name": "Cafra magistrale"
+  },
+  {
+   "name": "Cafra majeure"
+  },
+  {
+   "name": "Pého magistrale"
+  },
+  {
+   "name": "Boble majeure"
+  },
+  {
+   "name": "Kyoub magistrale"
+  },
+  {
+   "name": "Dagob majeure"
+  },
+  {
+   "name": "Critus"
+  },
+  {
+   "name": "Corrode"
+  },
+  {
+   "name": "Zaihn majeure"
+  },
+  {
+   "name": "Galet brasillant"
+  },
+  {
+   "name": "Galet acajou"
+  },
+  {
+   "name": "Sak majeure"
+  },
+  {
+   "name": "Teleb majeure"
+  },
+  {
+   "name": "Pénitent"
+  },
+  {
+   "name": "Ultram"
+  },
+  {
+   "name": "Domo magistrale"
+  },
+  {
+   "name": "Horize magistrale"
+  },
+  {
+   "name": "Hulhu magistrale"
+  },
+  {
+   "name": "Hoskar"
+  },
+  {
+   "name": "Dynamo magistrale"
+  },
+  {
+   "name": "Yoche magistrale"
+  },
+  {
+   "name": "Orbre régénérant magistral"
+  },
+  {
+   "name": "Nyoro magistrale"
+  },
+  {
+   "name": "Sceau des fondateurs"
+  },
+  {
+   "name": "Accélérateur de propulsion"
+  },
+  {
+   "name": "Attrape-peur"
+  },
+  {
+   "name": "Lest anti-tourbillon"
+  },
+  {
+   "name": "Statuette de Snedon"
+  },
+  {
+   "name": "Volant hydraulique"
+  },
+  {
+   "name": "Orbre régénérant majeur"
+  },
+  {
+   "name": "Domo majeure"
+  },
+  {
+   "name": "Pétunia majeure"
+  },
+  {
+   "name": "Rune Ga Pa"
+  },
+  {
+   "name": "Teleb"
+  },
+  {
+   "name": "Hulhu majeure"
+  },
+  {
+   "name": "Yoche majeure"
+  },
+  {
+   "name": "Horize majeure"
+  },
+  {
+   "name": "Rune Ga Pme"
+  },
+  {
+   "name": "Aroumb"
+  },
+  {
+   "name": "Nékinéko"
+  },
+  {
+   "name": "Zaihn"
+  },
+  {
+   "name": "Coeur Gelé"
+  },
+  {
+   "name": "Alliage Ivre"
+  },
+  {
+   "name": "Pého majeure"
+  },
+  {
+   "name": "Cafra"
+  },
+  {
+   "name": "Pikme majeure"
+  },
+  {
+   "name": "Dynamo majeure"
+  },
+  {
+   "name": "Braguette de Nileza"
+  },
+  {
+   "name": "Culotte de Missiz Frizz"
+  },
+  {
+   "name": "Incisive de Sylargh"
+  },
+  {
+   "name": "Scalp de Klime"
+  },
+  {
+   "name": "Bandelette du Comte Harebourg"
+  },
+  {
+   "name": "Coeur de Merkator"
+  },
+  {
+   "name": "Poche de magma de Grasmera"
+  },
+  {
+   "name": "Dagob"
+  },
+  {
+   "name": "Sak"
+  },
+  {
+   "name": "Kyoub majeure"
+  },
+  {
+   "name": "Galet Solaire"
+  },
+  {
+   "name": "Butor majeure"
+  },
+  {
+   "name": "Cuir Onique"
+  },
+  {
+   "name": "Boble"
+  },
+  {
+   "name": "Encre du Kralamoure géant"
+  },
+  {
+   "name": "Leukide"
+  },
+  {
+   "name": "Nyan"
+  },
+  {
+   "name": "Hamatum de Glourséleste"
+  },
+  {
+   "name": "Condyle de Fuji Givrefoux"
+  },
+  {
+   "name": "Étoffe de Kolosso"
+  },
+  {
+   "name": "Étoffe givrée"
+  },
+  {
+   "name": "Eclat temporel"
+  },
+  {
+   "name": "Nyoro majeure"
+  },
+  {
+   "name": "Bihilète magistrale"
+  },
+  {
+   "name": "Fermeture éclair"
+  },
+  {
+   "name": "Mycoses gelées"
+  },
+  {
+   "name": "Oeil de verre"
+  },
+  {
+   "name": "Racine cristalline"
+  },
+  {
+   "name": "Boulon neuf"
+  },
+  {
+   "name": "Oeil de Korriandre"
+  },
+  {
+   "name": "Fragment d'Ougalurette"
+  },
+  {
+   "name": "Peau du Bworker"
+  },
+  {
+   "name": "Orbre régénérant"
+  },
+  {
+   "name": "Vertèbre d'Obsidiantre"
+  },
+  {
+   "name": "Cuir de Tengu Givrefoux"
+  },
+  {
+   "name": "Rune Po"
+  },
+  {
+   "name": "Galet rutilant"
+  },
+  {
+   "name": "Galet boucané"
+  },
+  {
+   "name": "Sabot du Minotot"
+  },
+  {
+   "name": "Corne du Minotot"
+  },
+  {
+   "name": "Cuir du Minotot"
+  },
+  {
+   "name": "Laine du Minotot"
+  },
+  {
+   "name": "Fémur du Minotot"
+  },
+  {
+   "name": "Chaussette du Kimbo"
+  },
+  {
+   "name": "Pierre précieuse du Kimbo"
+  },
+  {
+   "name": "Scapula de Ben le Ripate"
+  },
+  {
+   "name": "Bézoard Ardent de Grozilla"
+  },
+  {
+   "name": "Étoffe de Sphincter Cell"
+  },
+  {
+   "name": "Bec de Dodox"
+  },
+  {
+   "name": "Sépale de Drosérâle"
+  },
+  {
+   "name": "Crinière de Krakal"
+  },
+  {
+   "name": "Molaire de Nessil"
+  },
+  {
+   "name": "Carapace de Termystique"
+  },
+  {
+   "name": "Moustache de Frimar"
+  },
+  {
+   "name": "Malleus de Karkanik"
+  },
+  {
+   "name": "Ethmoïde de Stalak"
+  },
+  {
+   "name": "Molaire de Ventrublion"
+  },
+  {
+   "name": "Cervelle de Verglasseur"
+  },
+  {
+   "name": "Queue de Brikoglours"
+  },
+  {
+   "name": "Griffe de Kanimate"
+  },
+  {
+   "name": "Sternum de Mansordide"
+  },
+  {
+   "name": "Oreille de Mécanofoux"
+  },
+  {
+   "name": "Pédoncule de Mérulor"
+  },
+  {
+   "name": "Dent de Cuirboule"
+  },
+  {
+   "name": "Coeur d'Empaillé"
+  },
+  {
+   "name": "Étoffe de Grodruche"
+  },
+  {
+   "name": "Cervelle de Peunch"
+  },
+  {
+   "name": "Plume de Cycloïde"
+  },
+  {
+   "name": "Bec de Granduk"
+  },
+  {
+   "name": "Pic du Nocturlabe"
+  },
+  {
+   "name": "Queue de Sinistrofu"
+  },
+  {
+   "name": "Bec de Strigide"
+  },
+  {
+   "name": "Oeuf de Gobus"
+  },
+  {
+   "name": "Oeuf du Mansot Royal"
+  },
+  {
+   "name": "Delko du Perkü"
+  },
+  {
+   "name": "Queue de Marôdeur"
+  },
+  {
+   "name": "Croc de Krokille"
+  },
+  {
+   "name": "Laine de Glouragan"
+  },
+  {
+   "name": "Étoffe de Glourmand"
+  },
+  {
+   "name": "Calcanéus de Meliglours"
+  },
+  {
+   "name": "Poil de Blérauve"
+  },
+  {
+   "name": "Oreille de Blérice"
+  },
+  {
+   "name": "Queue de Blérom"
+  },
+  {
+   "name": "Étoffe de Croleur"
+  },
+  {
+   "name": "Queue Magique du Péki"
+  },
+  {
+   "name": "Étoffe de Péki"
+  },
+  {
+   "name": "Ambre du Tynril"
+  },
+  {
+   "name": "Peau lacérée du Tynril"
+  },
+  {
+   "name": "Écorce du Tynril"
+  },
+  {
+   "name": "Ambre du Chêne Mou"
+  },
+  {
+   "name": "Bourgeon du Chêne Mou"
+  },
+  {
+   "name": "Oeil de Fleuro"
+  },
+  {
+   "name": "Manubrium de Wolvero"
+  },
+  {
+   "name": "Culotte de Harrogant"
+  },
+  {
+   "name": "Galet Lunaire"
+  },
+  {
+   "name": "Étoile d'Or d'El Piko"
+  },
+  {
+   "name": "Testicules du Tanukouï San"
+  },
+  {
+   "name": "Caleçon de Cybwork"
+  },
+  {
+   "name": "Cornée de Kami Givrefoux"
+  },
+  {
+   "name": "Queue du Royalmouth"
+  },
+  {
+   "name": "Lamelle de Champbis"
+  },
+  {
+   "name": "Langue du Champodonte"
+  },
+  {
+   "name": "Trompe de la Tromperelle"
+  },
+  {
+   "name": "Caleçon Blanc"
+  },
+  {
+   "name": "Caleçon Bleu"
+  },
+  {
+   "name": "Caleçon Rouge"
+  },
+  {
+   "name": "Caleçon Brun"
+  },
+  {
+   "name": "String en Cuir de la Mama Bwork"
+  },
+  {
+   "name": "Écorce de Champaknyde"
+  },
+  {
+   "name": "Broderie de la Reine des Voleurs"
+  },
+  {
+   "name": "Joyau de la couronne du roi Nidas"
+  },
+  {
+   "name": "Dé du Chaloeil"
+  },
+  {
+   "name": "Aile de Vortex"
+  },
+  {
+   "name": "Chaussette du Cyclophandre"
+  },
+  {
+   "name": "Pince de Krabouilleur"
+  },
+  {
+   "name": "Huile de Pikoleur"
+  },
+  {
+   "name": "Oeuf de Crapeur"
+  },
+  {
+   "name": "Peau de Skeunk"
+  },
+  {
+   "name": "Culotte à l'envers du Roissingue"
+  },
+  {
+   "name": "Racine d'Abrazif"
+  },
+  {
+   "name": "Oeil de Dramanite"
+  },
+  {
+   "name": "Oreille de Fistulor"
+  },
+  {
+   "name": "Pédoncule de Fongeur"
+  },
+  {
+   "name": "Pédoncule de Mérulette"
+  },
+  {
+   "name": "Coquille de Submergé"
+  },
+  {
+   "name": "Scarabée Chrysonéfritin"
+  },
+  {
+   "name": "Poil de Maître Pandore"
+  },
+  {
+   "name": "Peau de Maître Pandore"
+  },
+  {
+   "name": "Étoffe de Maître Pandore"
+  },
+  {
+   "name": "Cuir du Minotoror"
+  },
+  {
+   "name": "Sabot du Minotoror"
+  },
+  {
+   "name": "Fémur du Minotoror"
+  },
+  {
+   "name": "Corne Brûlée du Minotoror"
+  },
+  {
+   "name": "Téphra d'Atomystique"
+  },
+  {
+   "name": "Artefact de Fumrirolle"
+  },
+  {
+   "name": "Sang de Calciné"
+  },
+  {
+   "name": "Goulobule rouge"
+  },
+  {
+   "name": "Rune Invo"
+  },
+  {
+   "name": "Symbole des Obscuranti"
+  },
+  {
+   "name": "Chope de Bière"
+  },
+  {
+   "name": "Brûlâme encapsulé"
+  },
+  {
+   "name": "Poignée du Gorgouille"
+  },
+  {
+   "name": "Ulna de Solfataré"
+  },
+  {
+   "name": "Radius d'Ouilleur"
+  },
+  {
+   "name": "Iris de Boulglours"
+  },
+  {
+   "name": "Aile de Gloursaya"
+  },
+  {
+   "name": "Horize"
+  },
+  {
+   "name": "Corne d'Ombre"
+  },
+  {
+   "name": "Peau du Rasboul Majeur"
+  },
+  {
+   "name": "Queue emplumée du Rasboul Majeur"
+  },
+  {
+   "name": "Oeil de Vigie Pirate"
+  },
+  {
+   "name": "Noeud de l'Abrakleur clair"
+  },
+  {
+   "name": "Moumoute du Sapeur"
+  },
+  {
+   "name": "Bouteille de Bouchonnois"
+  },
+  {
+   "name": "Vomer d'Apériglours"
+  },
+  {
+   "name": "Noyau de Protozorreur"
+  },
+  {
+   "name": "Sel de Baleine"
+  },
+  {
+   "name": "Epaulette de Dazak Martegel"
+  },
+  {
+   "name": "Queue de Bethel Akarna"
+  },
+  {
+   "name": "Patte de Gobosteur"
+  },
+  {
+   "name": "Borderie de Nileza"
+  },
+  {
+   "name": "Poil d'aisselle de Missiz Frizz"
+  },
+  {
+   "name": "Laine de Sylargh"
+  },
+  {
+   "name": "Plume d'Ilyzaelle"
+  },
+  {
+   "name": "Moustache de Klime"
+  },
+  {
+   "name": "Scapula du Comte Harebourg"
+  },
+  {
+   "name": "Cheveux de Tal Kasha"
+  },
+  {
+   "name": "Barbe de Merkator"
+  },
+  {
+   "name": "Broderie d'Eskoglyphe"
+  },
+  {
+   "name": "Poil de Meno"
+  },
+  {
+   "name": "Aile de Larve de Koutoulou"
+  },
+  {
+   "name": "Dentier de Dantinéa"
+  },
+  {
+   "name": "Pointe osseuse de Grasmera"
+  },
+  {
+   "name": "Cervelle de Solar"
+  },
+  {
+   "name": "Pic d'Anerice"
+  },
+  {
+   "name": "Cafra mineure"
+  },
+  {
+   "name": "Coquille de Harpirate"
+  },
+  {
+   "name": "Huile de Fantimonier"
+  },
+  {
+   "name": "Sang du Toxoliath"
+  },
+  {
+   "name": "Slip troué de Dramak"
+  },
+  {
+   "name": "Pierre du Koulosse"
+  },
+  {
+   "name": "Testicules de Meulou"
+  },
+  {
+   "name": "Dents de Meulou"
+  },
+  {
+   "name": "Mojo du Meulou"
+  },
+  {
+   "name": "Testicules Magiques du Meulou"
+  },
+  {
+   "name": "Oeil de Meulou"
+  },
+  {
+   "name": "Crâne du Dragon Cochon"
+  },
+  {
+   "name": "Sang de Dragon Cochon"
+  },
+  {
+   "name": "Dragolait"
+  },
+  {
+   "name": "Queue de Dragon Cochon"
+  },
+  {
+   "name": "Défense de Dragon Cochon"
+  },
+  {
+   "name": "Poil de Dragon Cochon"
+  },
+  {
+   "name": "Étoffe Magique de Moon"
+  },
+  {
+   "name": "Étoffe de Meupette"
+  },
+  {
+   "name": "Bave de Champ à Gnons"
+  },
+  {
+   "name": "Oeil de Champmane"
+  },
+  {
+   "name": "Ventouse du Kralamoure géant"
+  },
+  {
+   "name": "Corde du Fancrôme"
+  },
+  {
+   "name": "Bouée de Fantomalamère"
+  },
+  {
+   "name": "Kyoub"
+  },
+  {
+   "name": "Butor"
+  },
+  {
+   "name": "Pikmi"
+  },
+  {
+   "name": "Vaude"
+  },
+  {
+   "name": "Queue de Glourséleste"
+  },
+  {
+   "name": "Cuir de Fuji Givrefoux"
+  },
+  {
+   "name": "Griffe de Kolosso"
+  },
+  {
+   "name": "Poudre glaciale"
+  },
+  {
+   "name": "Fragment gelé"
+  },
+  {
+   "name": "Bihilète majeure"
+  },
+  {
+   "name": "Fausse dent de Grozilla"
+  },
+  {
+   "name": "Poils du Comte Razof"
+  },
+  {
+   "name": "Pilule de Rat Pine"
+  },
+  {
+   "name": "Pierre Angulaire"
+  },
+  {
+   "name": "Peau de Trithon"
+  },
+  {
+   "name": "Cuir de Maho Givrefoux"
+  },
+  {
+   "name": "Étoffe de Kaniglou"
+  },
+  {
+   "name": "Corne de XLII"
+  },
+  {
+   "name": "Parasite Aquatique"
+  },
+  {
+   "name": "Oreille du Fu Mansot"
+  },
+  {
+   "name": "Poche de charbon de Grasmera"
+  },
+  {
+   "name": "Étoffe de Choudini"
+  },
+  {
+   "name": "Bwak Squelettique"
+  },
+  {
+   "name": "Talon d'achille de l'Abrakleur sombre"
+  },
+  {
+   "name": "Bourgeon d'Abraknyde Ancestral"
+  },
+  {
+   "name": "Oeil de Branche Invocatrice"
+  },
+  {
+   "name": "Oeil de Branche Soignante"
+  },
+  {
+   "name": "Écorce de Floribonde"
+  },
+  {
+   "name": "Arête géante du Shamansot"
+  },
+  {
+   "name": "Crâne de Yokaï Givrefoux"
+  },
+  {
+   "name": "Patte de Korriandre"
+  },
+  {
+   "name": "Oeil torve de Fricochère"
+  },
+  {
+   "name": "Écorce de Brouture"
+  },
+  {
+   "name": "Écorce de Chiendent"
+  },
+  {
+   "name": "Écorce de Fécorce"
+  },
+  {
+   "name": "Écorce de Nerbe"
+  },
+  {
+   "name": "Mandibule d'Abrakne Irascible"
+  },
+  {
+   "name": "Orbre régénérant mineur"
+  },
+  {
+   "name": "Épine d'Ougah"
+  },
+  {
+   "name": "Oeil d'Ougah"
+  },
+  {
+   "name": "Ongle du Bworker"
+  },
+  {
+   "name": "Arakne Irascible Écrasée"
+  },
+  {
+   "name": "Huile de Mamansot"
+  },
+  {
+   "name": "Patte de Soryo Givrefoux"
+  },
+  {
+   "name": "Moustache de Ush"
+  },
+  {
+   "name": "Coquille de Krokille"
+  },
+  {
+   "name": "Oeil de la Gardienne des Égouts"
+  },
+  {
+   "name": "Ambre d'Abraknyde Sombre Irascible"
+  },
+  {
+   "name": "Queue de Yomi Givrefoux"
+  },
+  {
+   "name": "Défense du Sanglacier"
+  },
+  {
+   "name": "Hulhu"
+  },
+  {
+   "name": "Coeur du Mantiscore"
+  },
+  {
+   "name": "Coquille du Kaskargo"
+  },
+  {
+   "name": "Aile de Mansobèse"
+  },
+  {
+   "name": "Dent de Fantômat"
+  },
+  {
+   "name": "Scorie d'Obsidiantre"
+  },
+  {
+   "name": "Couche de Daïgoro"
+  },
+  {
+   "name": "Coco du Bitouf aérien"
+  },
+  {
+   "name": "Kristalite"
+  },
+  {
+   "name": "Queue du Boufmouth légendaire"
+  },
+  {
+   "name": "Laine de Tengu Givrefoux"
+  },
+  {
+   "name": "Zaihn mineure"
+  },
+  {
+   "name": "Oeil du Père Ver"
+  },
+  {
+   "name": "Étoffe de Maho Firefoux"
+  },
+  {
+   "name": "Tresse du Poolay"
+  },
+  {
+   "name": "Nyoro"
+  },
+  {
+   "name": "Défense du Phossile"
+  },
+  {
+   "name": "Carapace de Ver des Sables"
+  },
+  {
+   "name": "Bec du Timansot"
+  },
+  {
+   "name": "Oeil de Boufmouth de guerre"
+  },
+  {
+   "name": "Gland de l'Ecumouth"
+  },
+  {
+   "name": "Galet Saisonnier"
+  },
+  {
+   "name": "Galet bistré"
+  },
+  {
+   "name": "Galet cramoisi"
+  },
+  {
+   "name": "Teleb mineure"
+  },
+  {
+   "name": "Étoffe du Fauchalak"
+  },
+  {
+   "name": "Boomerang du Maître Koalak"
+  },
+  {
+   "name": "Poils de Barbe du Warko Violet"
+  },
+  {
+   "name": "Étoffe de Fantôme Léopardo"
+  },
+  {
+   "name": "Étoffe de Fantôme Maho Firefoux"
+  },
+  {
+   "name": "Étoffe de Fantôme Pandikaze"
+  },
+  {
+   "name": "Étoffe de Fantôme Pandore"
+  },
+  {
+   "name": "Étoffe de Fantôme Pandule"
+  },
+  {
+   "name": "Étoffe de Fantôme Soryo Firefoux"
+  },
+  {
+   "name": "Étoffe de Fantôme Tanukouï San"
+  },
+  {
+   "name": "Étoffe de Fantôme Yokai Firefoux"
+  },
+  {
+   "name": "Poil de Ben le Ripate"
+  },
+  {
+   "name": "Dent de Smilomouth"
+  },
+  {
+   "name": "Muta"
+  },
+  {
+   "name": "Ougah"
+  },
+  {
+   "name": "Yoche"
+  },
+  {
+   "name": "Griffe de Buboxor"
+  },
+  {
+   "name": "Oeil de Harpille"
+  },
+  {
+   "name": "Serre d'Ikargn"
+  },
+  {
+   "name": "Corne de Méjaire"
+  },
+  {
+   "name": "Fémur de Koalak Farouche"
+  },
+  {
+   "name": "Fiole de fumée de Nelween"
+  },
+  {
+   "name": "Méga Pierre du Craqueleur Légendaire"
+  },
+  {
+   "name": "Ethmoïde du Minotot"
+  },
+  {
+   "name": "Corne de Mominotor"
+  },
+  {
+   "name": "Corne de Scaratos"
+  },
+  {
+   "name": "Sphénoïde du Kimbo"
+  },
+  {
+   "name": "Perruque du Kimbo"
+  },
+  {
+   "name": "Pourdre explosive de Gourlo"
+  },
+  {
+   "name": "Clavicule de Boufmouth"
+  },
+  {
+   "name": "Peau de Chevaucheur Koalak"
+  },
+  {
+   "name": "Boomerang du Koalak Sanguin"
+  },
+  {
+   "name": "Queue de Koalak Sanguin"
+  },
+  {
+   "name": "Plume du Mansot Royal"
+  },
+  {
+   "name": "Aquarakne de Crânonier"
+  },
+  {
+   "name": "Protection de Funespadon"
+  },
+  {
+   "name": "Bout d'Armure de Macrab"
+  },
+  {
+   "name": "Pointe de Lance de Tournoyé"
+  },
+  {
+   "name": "Chair de Zombruth"
+  },
+  {
+   "name": "Crâne magique de Magouille"
+  },
+  {
+   "name": "Boule en or de Piloztère"
+  },
+  {
+   "name": "Plume du Cavalier"
+  },
+  {
+   "name": "Sceau du Roi Joueur"
+  },
+  {
+   "name": "Pique du Soldat"
+  },
+  {
+   "name": "Gilet du Valet"
+  },
+  {
+   "name": "Plume de Brabuzar"
+  },
+  {
+   "name": "Dent de Bandleth"
+  },
+  {
+   "name": "Fragment de Chakanoubis"
+  },
+  {
+   "name": "Oreille de Griffotep"
+  },
+  {
+   "name": "Grenat de Momistik"
+  },
+  {
+   "name": "Paupière Dorée de Rykaon"
+  },
+  {
+   "name": "Sang de Harpo"
+  },
+  {
+   "name": "Dent de Tilamproie"
+  },
+  {
+   "name": "Flûte de Klûtiste"
+  },
+  {
+   "name": "Épine de Diondin"
+  },
+  {
+   "name": "Épine Dorsale de Grozilla"
+  },
+  {
+   "name": "Place de Concert de Diamantine"
+  },
+  {
+   "name": "Journal Intime d'Émeraude"
+  },
+  {
+   "name": "Pense-bête de Rubise"
+  },
+  {
+   "name": "Shampooing au Kaliptus de Saphira"
+  },
+  {
+   "name": "Peau de Sphincter Cell"
+  },
+  {
+   "name": "Oreille de Sphincter Cell"
+  },
+  {
+   "name": "Fémur de Sphincter Cell"
+  },
+  {
+   "name": "Langue de Hacharné"
+  },
+  {
+   "name": "Oeil de Halbardent"
+  },
+  {
+   "name": "Dent de Klémort"
+  },
+  {
+   "name": "Grenade de Moribombe"
+  },
+  {
+   "name": "Vertèbre de Trépavois"
+  },
+  {
+   "name": "Ongle de Goulafre"
+  },
+  {
+   "name": "Oeil de Gouligane"
+  },
+  {
+   "name": "Poils de Goultime"
+  },
+  {
+   "name": "Aile de Kérigoule"
+  },
+  {
+   "name": "Nez de Pipisteuse"
+  },
+  {
+   "name": "Trompe de Minoskito"
+  },
+  {
+   "name": "Bâton du Kilibriss"
+  },
+  {
+   "name": "Poils de barbe de Barbélier"
+  },
+  {
+   "name": "Fronde de Boufbos"
+  },
+  {
+   "name": "Jambière de Kasrok"
+  },
+  {
+   "name": "Armure de Tanklume"
+  },
+  {
+   "name": "Dent de Vatenbière"
+  },
+  {
+   "name": "Fragment de pépite de Sakaï"
+  },
+  {
+   "name": "Pierre du Courtilieur"
+  },
+  {
+   "name": "Bois de Gobus"
+  },
+  {
+   "name": "Estomac du Perkü"
+  },
+  {
+   "name": "Plume de Dodox"
+  },
+  {
+   "name": "Bracée de Drosérâle"
+  },
+  {
+   "name": "Canine de Krakal"
+  },
+  {
+   "name": "Bave de Nessil"
+  },
+  {
+   "name": "Patte de Termystique"
+  },
+  {
+   "name": "Stapes de Frimar"
+  },
+  {
+   "name": "Sang de Karkanik"
+  },
+  {
+   "name": "Incisive de Stalak"
+  },
+  {
+   "name": "Sang de Ventrublion"
+  },
+  {
+   "name": "Incus de Verglasseur"
+  },
+  {
+   "name": "Maxillaire de Brikoglours"
+  },
+  {
+   "name": "Canine de Kanimate"
+  },
+  {
+   "name": "Bec de Mansordide"
+  },
+  {
+   "name": "Astragale de Mécanofoux"
+  },
+  {
+   "name": "Volve de Mérulor"
+  },
+  {
+   "name": "Cendres de Chause"
+  },
+  {
+   "name": "Pince de Crâme"
+  },
+  {
+   "name": "Fragment d'Ectorche"
+  },
+  {
+   "name": "Restes d'Esprigné"
+  },
+  {
+   "name": "Oeil de Feutôme"
+  },
+  {
+   "name": "Cuir de Cuirboule"
+  },
+  {
+   "name": "Cuir d'Empaillé"
+  },
+  {
+   "name": "Cuir de Grodruche"
+  },
+  {
+   "name": "Oeil de Harrogant"
+  },
+  {
+   "name": "Cuir de Peunch"
+  },
+  {
+   "name": "Oeil de Cycloïde"
+  },
+  {
+   "name": "Plume de Granduk"
+  },
+  {
+   "name": "Aile de Nocturlabe"
+  },
+  {
+   "name": "Aile de Sinistrofu"
+  },
+  {
+   "name": "Griffe de Strigide"
+  },
+  {
+   "name": "Pétunia"
+  },
+  {
+   "name": "Coeur du Capitaine Ekarlatte"
+  },
+  {
+   "name": "Masque de la Violence"
+  },
+  {
+   "name": "Masque de la Vivacité"
+  },
+  {
+   "name": "Masque du Vide"
+  },
+  {
+   "name": "Masque de la Vengeance"
+  },
+  {
+   "name": "Masque du Vice"
+  },
+  {
+   "name": "Jus de Cacterre"
+  },
+  {
+   "name": "Étoffe de Soryo Firefoux"
+  },
+  {
+   "name": "Lait de Porsalu"
+  },
+  {
+   "name": "Coco du Bitouf des Plaines"
+  },
+  {
+   "name": "Coeur de pierre poli"
+  },
+  {
+   "name": "Bec du Kido"
+  },
+  {
+   "name": "Crinière fleurie"
+  },
+  {
+   "name": "Cuir de Glouragan"
+  },
+  {
+   "name": "Incisive de Glourmand"
+  },
+  {
+   "name": "Queue de Meliglours"
+  },
+  {
+   "name": "Cuir de Bouftonmouth"
+  },
+  {
+   "name": "Tuf de Mofette"
+  },
+  {
+   "name": "Griffe de Blérauve"
+  },
+  {
+   "name": "Molaire de Blérice"
+  },
+  {
+   "name": "Omoplate de Blérom"
+  },
+  {
+   "name": "Oreille de Croleur"
+  },
+  {
+   "name": "Péroné du Marôdeur"
+  },
+  {
+   "name": "Rune Pa Ré Pa"
+  },
+  {
+   "name": "Rune Pa Ré Pme"
+  },
+  {
+   "name": "Rune Pa Ret Pa"
+  },
+  {
+   "name": "Rune Pa Ret Pme"
+  },
+  {
+   "name": "Éclat Obscur"
+  },
+  {
+   "name": "Boue Vénérable"
+  },
+  {
+   "name": "Flaque Vénérable"
+  },
+  {
+   "name": "Cendres Vénérables"
+  },
+  {
+   "name": "Poudre Vénérable"
+  },
+  {
+   "name": "Fumée Vénérable"
+  },
+  {
+   "name": "Oreille de Bouledogre"
+  },
+  {
+   "name": "Élastique de Gobvious"
+  },
+  {
+   "name": "Corne de Rhinoféroce"
+  },
+  {
+   "name": "Bave de Brokouillon"
+  },
+  {
+   "name": "Queue de Chevrotine"
+  },
+  {
+   "name": "Flèche de Crâmbo"
+  },
+  {
+   "name": "Os de Nemroz"
+  },
+  {
+   "name": "Sang de Viandargh"
+  },
+  {
+   "name": "Coiffe déchiquetée de Drakoalak"
+  },
+  {
+   "name": "Os de Mama Koalak"
+  },
+  {
+   "name": "Cervelle de Bouftou des Cavernes"
+  },
+  {
+   "name": "Testicules de Cocholou"
+  },
+  {
+   "name": "Mojo de Mergranlou"
+  },
+  {
+   "name": "Testicules Magiques de Muloubard"
+  },
+  {
+   "name": "Scalp de Mulounoké"
+  },
+  {
+   "name": "Corne de Déminoboule"
+  },
+  {
+   "name": "Pierre de Serpiplume"
+  },
+  {
+   "name": "Cagoule du Kanniboul Ebil"
+  },
+  {
+   "name": "Boule polie"
+  },
+  {
+   "name": "Tibia du Guerrier Zoth"
+  },
+  {
+   "name": "Braguette du Maître Zoth"
+  },
+  {
+   "name": "Écusson du Sergent Zoth"
+  },
+  {
+   "name": "Antenne de Bacterrib"
+  },
+  {
+   "name": "Patte de Tabacille"
+  },
+  {
+   "name": "Oeil de Verminocule"
+  },
+  {
+   "name": "Coquille de Virustine"
+  },
+  {
+   "name": "Oreille de Fleuro"
+  },
+  {
+   "name": "Queue de Wolvero"
+  },
+  {
+   "name": "Dynamo"
+  },
+  {
+   "name": "Horize mineure"
+  },
+  {
+   "name": "Pého mineure"
+  },
+  {
+   "name": "Pixel de Fraktale"
+  },
+  {
+   "name": "Poil de Péki"
+  },
+  {
+   "name": "Étoffe de Yokai Firefoux"
+  },
+  {
+   "name": "Étoffe de Pandore"
+  },
+  {
+   "name": "Calice du Tynril"
+  },
+  {
+   "name": "Pistil du Tynril"
+  },
+  {
+   "name": "Rotule du Disciple Zoth"
+  },
+  {
+   "name": "Écorce du Chêne Mou"
+  },
+  {
+   "name": "Racine du Chêne Mou"
+  },
+  {
+   "name": "Laine du Royalmouth"
+  },
+  {
+   "name": "Coeur de Crapeur"
+  },
+  {
+   "name": "Pierre de Mofette"
+  },
+  {
+   "name": "Incisive de Kami Givrefoux"
+  },
+  {
+   "name": "Écorce d'Abrazif"
+  },
+  {
+   "name": "Lamelle de Dramanite"
+  },
+  {
+   "name": "Volve de Fistulor"
+  },
+  {
+   "name": "Volve de Fongeur"
+  },
+  {
+   "name": "Lamelle de Mérulette"
+  },
+  {
+   "name": "Dagob mineure"
+  },
+  {
+   "name": "Domo"
+  },
+  {
+   "name": "Pikmi mineure"
+  },
+  {
+   "name": "Sak mineure"
+  },
+  {
+   "name": "Glande du Pounicheur"
+  },
+  {
+   "name": "Barbe de Seith"
+  },
+  {
+   "name": "Pagne de Trantroa"
+  },
+  {
+   "name": "Dent de Trezz"
+  },
+  {
+   "name": "Peau de Vindeux"
+  },
+  {
+   "name": "Venin d'Éperfide"
+  },
+  {
+   "name": "Pince de Lucrane"
+  },
+  {
+   "name": "Dard de Morfrelon"
+  },
+  {
+   "name": "Aile de Puceronde"
+  },
+  {
+   "name": "Patte de Scoliopode"
+  },
+  {
+   "name": "Relique du Kimbo"
+  },
+  {
+   "name": "Picot d'El Piko"
+  },
+  {
+   "name": "Avoine Magique"
+  },
+  {
+   "name": "Peau de Roukouto"
+  },
+  {
+   "name": "Peau de Tivelo"
+  },
+  {
+   "name": "Poils de Tanukouï San"
+  },
+  {
+   "name": "Peau de Tanukouï San"
+  },
+  {
+   "name": "Triquetrum du Maître Pandore"
+  },
+  {
+   "name": "Poil de Bworkette"
+  },
+  {
+   "name": "Étoffe Corailleuse"
+  },
+  {
+   "name": "Corail Magistral"
+  },
+  {
+   "name": "Toile d'Abrakne Sombre"
+  },
+  {
+   "name": "Pierre d'Atomystique"
+  },
+  {
+   "name": "Pierre de Fumrirolle"
+  },
+  {
+   "name": "Rune Cri"
+  },
+  {
+   "name": "Rune Pa So"
+  },
+  {
+   "name": "Rune So"
+  },
+  {
+   "name": "Bihilète"
+  },
+  {
+   "name": "Domo mineure"
+  },
+  {
+   "name": "Hulhu mineure"
+  },
+  {
+   "name": "Yoche mineure"
+  },
+  {
+   "name": "Épaulette de Bourôliste"
+  },
+  {
+   "name": "Chouchou de Doublure"
+  },
+  {
+   "name": "Piège désamorcé de Mâchassin"
+  },
+  {
+   "name": "Mèche de bombe de Terristocrate"
+  },
+  {
+   "name": "Sourcil de Barbétoal"
+  },
+  {
+   "name": "Corne de Kamasterik"
+  },
+  {
+   "name": "Dent de Lévitrof"
+  },
+  {
+   "name": "Morceau de clef de Paspartou"
+  },
+  {
+   "name": "Touffe de cheveux de Soissanth"
+  },
+  {
+   "name": "Relique du Tynril"
+  },
+  {
+   "name": "Pic de Pikténia"
+  },
+  {
+   "name": "Ceinture de la Dame"
+  },
+  {
+   "name": "Barbe du Cyclophandre"
+  },
+  {
+   "name": "Carapace de Krabouilleur"
+  },
+  {
+   "name": "Pic de Pikoleur"
+  },
+  {
+   "name": "Queue de Mantaze"
+  },
+  {
+   "name": "Patte de Li-Fo"
+  },
+  {
+   "name": "Moustache de Rilur"
+  },
+  {
+   "name": "Oeil de Krokille"
+  },
+  {
+   "name": "Bandelette du Guerrier Koalak"
+  },
+  {
+   "name": "Poil de Skeunk"
+  },
+  {
+   "name": "Écorce de Liroye Merline"
+  },
+  {
+   "name": "Bandeau troué d'Air"
+  },
+  {
+   "name": "Bandeau troué d'Eau"
+  },
+  {
+   "name": "Bandeau troué de Feu"
+  },
+  {
+   "name": "Bandeau troué de Terre"
+  },
+  {
+   "name": "Boulon de Cybwork"
+  },
+  {
+   "name": "Furoncle de la Mama Bwork"
+  },
+  {
+   "name": "Tourbe séchée de Tourbassingue"
+  },
+  {
+   "name": "Poils de Boulglours"
+  },
+  {
+   "name": "Antenne de Gloursaya"
+  },
+  {
+   "name": "Étoffe de Vigie Pirate"
+  },
+  {
+   "name": "Résidu de Solfataré"
+  },
+  {
+   "name": "Peau d'Ouilleur"
+  },
+  {
+   "name": "Rune Pa Do Air"
+  },
+  {
+   "name": "Rune Pa Do Cri"
+  },
+  {
+   "name": "Rune Pa Do Eau"
+  },
+  {
+   "name": "Rune Pa Do Feu"
+  },
+  {
+   "name": "Rune Pa Do Neutre"
+  },
+  {
+   "name": "Rune Pa Do Pou"
+  },
+  {
+   "name": "Rune Pa Do Terre"
+  },
+  {
+   "name": "Rune Pa Fui"
+  },
+  {
+   "name": "Rune Pa Pi"
+  },
+  {
+   "name": "Rune Pa Tac"
+  },
+  {
+   "name": "Rune Ra Sa"
+  },
+  {
+   "name": "Kyoub mineure"
+  },
+  {
+   "name": "Pého"
+  },
+  {
+   "name": "Broderie de Malléfisk"
+  },
+  {
+   "name": "Poil de Chacrebleu"
+  },
+  {
+   "name": "Collier de Chakichan"
+  },
+  {
+   "name": "Oreille de Chargus"
+  },
+  {
+   "name": "Queue de Chasquatch"
+  },
+  {
+   "name": "Dent de Rat Blanc"
+  },
+  {
+   "name": "Étoffe de Rat Blanc"
+  },
+  {
+   "name": "Peau de Rat Blanc"
+  },
+  {
+   "name": "Peau de Rat Noir"
+  },
+  {
+   "name": "Cubitus de Rat Noir"
+  },
+  {
+   "name": "Étoffe de Rat Noir"
+  },
+  {
+   "name": "Fragment du Gorgouille"
+  },
+  {
+   "name": "Laine du Minotoror"
+  },
+  {
+   "name": "Poils du Minotoror"
+  },
+  {
+   "name": "Kole"
+  },
+  {
+   "name": "Faux menton du Bourbassingue"
+  },
+  {
+   "name": "Étoffe du Roissingue"
+  },
+  {
+   "name": "Oreille d'Apériglours"
+  },
+  {
+   "name": "Sternum de Chachachovage"
+  },
+  {
+   "name": "Bec de Gélikan"
+  },
+  {
+   "name": "Patte de Rat Bougri"
+  },
+  {
+   "name": "Pince du Fancrôme"
+  },
+  {
+   "name": "Coquille de Fantimonier"
+  },
+  {
+   "name": "Queue de Fantomalamère"
+  },
+  {
+   "name": "Mât de Fantômat"
+  },
+  {
+   "name": "Écaille de Harpirate"
+  },
+  {
+   "name": "Oreille de Gobosteur"
+  },
+  {
+   "name": "Oeil de Sapeur"
+  },
+  {
+   "name": "Rune Ré Pa"
+  },
+  {
+   "name": "Rune Ré Per Air"
+  },
+  {
+   "name": "Rune Ré Per Eau"
+  },
+  {
+   "name": "Rune Ré Per Feu"
+  },
+  {
+   "name": "Rune Ré Per Neutre"
+  },
+  {
+   "name": "Rune Ré Per Terre"
+  },
+  {
+   "name": "Rune Ré Pme"
+  },
+  {
+   "name": "Rune Ret Pa"
+  },
+  {
+   "name": "Rune Ret Pme"
+  },
+  {
+   "name": "Boble mineure"
+  },
+  {
+   "name": "Nyoro mineure"
+  },
+  {
+   "name": "Proxima"
+  },
+  {
+   "name": "Biscuit de chance"
+  },
+  {
+   "name": "Sablier miniature"
+  },
+  {
+   "name": "Queue de Mère Veilleuse"
+  },
+  {
+   "name": "Peau de Métaphorreur"
+  },
+  {
+   "name": "Corne de Père Phorreur"
+  },
+  {
+   "name": "Griffe de Phorrêveur"
+  },
+  {
+   "name": "Oeil de Phozami"
+  },
+  {
+   "name": "Relique du Rasboul Majeur"
+  },
+  {
+   "name": "Sable Fin"
+  },
+  {
+   "name": "Cuir d'Eskoglyphe"
+  },
+  {
+   "name": "Pince de Crabe Yoloniste"
+  },
+  {
+   "name": "Écaille de Gambaf"
+  },
+  {
+   "name": "Bave de Mol Usk"
+  },
+  {
+   "name": "Tentacule de Grofond"
+  },
+  {
+   "name": "Tentacule de N'Yalg"
+  },
+  {
+   "name": "Oeil de Shokkoth"
+  },
+  {
+   "name": "Encre de Poulpée"
+  },
+  {
+   "name": "Lanterne de Tourthon"
+  },
+  {
+   "name": "Trident de Tryde"
+  },
+  {
+   "name": "Chaussette trouée de Dramak"
+  },
+  {
+   "name": "Poils de Barbe de Dragodinde"
+  },
+  {
+   "name": "Tresse du Koulosse"
+  },
+  {
+   "name": "Oeil de Crowneille"
+  },
+  {
+   "name": "Kolérat Mort"
+  },
+  {
+   "name": "Collier Cassé de Macien"
+  },
+  {
+   "name": "Viscères de Scorbute"
+  },
+  {
+   "name": "Racine Magique de Bambouto Sacré"
+  },
+  {
+   "name": "Noeud de Marin"
+  },
+  {
+   "name": "Souche de l'Abrakleur clair"
+  },
+  {
+   "name": "Barbe inexistante du Barbroussa"
+  },
+  {
+   "name": "Touffe rousse du Flib"
+  },
+  {
+   "name": "Humérus du Sparo"
+  },
+  {
+   "name": "Sourcil du Rasboul majeur"
+  },
+  {
+   "name": "Plume du Rasboul Majeur"
+  },
+  {
+   "name": "Queue du Fu Mansot"
+  },
+  {
+   "name": "Duvet de Mamansot"
+  },
+  {
+   "name": "Peau de Mansobèse"
+  },
+  {
+   "name": "Poil de barbe du Shamansot"
+  },
+  {
+   "name": "Laine de Boufmouth légendaire"
+  },
+  {
+   "name": "Oeil de Crabe Hijacob"
+  },
+  {
+   "name": "Peau de Pataugerme"
+  },
+  {
+   "name": "Larme de Givrefoux"
+  },
+  {
+   "name": "Laine de Maho Givrefoux"
+  },
+  {
+   "name": "Oreille de Soryo Givrefoux"
+  },
+  {
+   "name": "Laine de Yokaï Givrefoux"
+  },
+  {
+   "name": "Malléole de Yomi Givrefoux"
+  },
+  {
+   "name": "Oreille percée du Fricochère"
+  },
+  {
+   "name": "Oreille de Kaniglou"
+  },
+  {
+   "name": "Cuir du Sanglacier"
+  },
+  {
+   "name": "Rune Ra Pi Per"
+  },
+  {
+   "name": "Rune Ra Pui"
+  },
+  {
+   "name": "Bihilète mineure"
+  },
+  {
+   "name": "Butor mineure"
+  },
+  {
+   "name": "Pétunia mineure"
+  },
+  {
+   "name": "Tête de mort"
+  },
+  {
+   "name": "Kamatrix"
+  },
+  {
+   "name": "Slip d'Elsoummo"
+  },
+  {
+   "name": "Sacoche de Kartouche"
+  },
+  {
+   "name": "Foulard de Milimaître"
+  },
+  {
+   "name": "Os de Sramouraï"
+  },
+  {
+   "name": "Bandelette de Tromblion"
+  },
+  {
+   "name": "Dent de Chakaroze"
+  },
+  {
+   "name": "Pixel de Brikablak"
+  },
+  {
+   "name": "Pixel d'Éklatleth"
+  },
+  {
+   "name": "Pixel de Farfacette"
+  },
+  {
+   "name": "Pixel de Gromorso"
+  },
+  {
+   "name": "Relique de Gourlo le Terrible"
+  },
+  {
+   "name": "Carapace du Mantiscore"
+  },
+  {
+   "name": "Parchemin de Cactana"
+  },
+  {
+   "name": "Fleur de Cactiflore"
+  },
+  {
+   "name": "Moustaches de Cactoblongo"
+  },
+  {
+   "name": "Maraca de Lévito"
+  },
+  {
+   "name": "String de Pampactus"
+  },
+  {
+   "name": "Dent de Cycloporth"
+  },
+  {
+   "name": "Patte de Masticroc"
+  },
+  {
+   "name": "Langue de Morsquale"
+  },
+  {
+   "name": "Peau de Trémorse"
+  },
+  {
+   "name": "Écaille de Grasmera"
+  },
+  {
+   "name": "Écaille de Grozilla"
+  },
+  {
+   "name": "Boue Mature"
+  },
+  {
+   "name": "Flaque Mature"
+  },
+  {
+   "name": "Cendres Matures"
+  },
+  {
+   "name": "Poudre Mature"
+  },
+  {
+   "name": "Fumée Mature"
+  },
+  {
+   "name": "Peau de Koalak Immature"
+  },
+  {
+   "name": "Boomerang du Warko Marron"
+  },
+  {
+   "name": "Patte de la Gardienne des Égouts"
+  },
+  {
+   "name": "Oeil de Rat Masseur"
+  },
+  {
+   "name": "Queue de Rat Pine"
+  },
+  {
+   "name": "Poil de Rat Brâkmarien"
+  },
+  {
+   "name": "Fibre de Chanvre"
+  },
+  {
+   "name": "Faux Visage de Choudini"
+  },
+  {
+   "name": "Pommeau d'Epée"
+  },
+  {
+   "name": "Scalp de Meulou"
+  },
+  {
+   "name": "Étoffe du Mulou"
+  },
+  {
+   "name": "Poils de Kitsou Nufeu"
+  },
+  {
+   "name": "Groin de Dragon Cochon"
+  },
+  {
+   "name": "Poils de Moon"
+  },
+  {
+   "name": "Peau de Moon"
+  },
+  {
+   "name": "Barbe du Chouque"
+  },
+  {
+   "name": "Rembourrage de Meupette"
+  },
+  {
+   "name": "Carpelle de Brouture"
+  },
+  {
+   "name": "Graine de l'Abrakleur sombre"
+  },
+  {
+   "name": "Bractée de Chiendent"
+  },
+  {
+   "name": "Calice de Fécorce"
+  },
+  {
+   "name": "Étamine de Floribonde"
+  },
+  {
+   "name": "Sépale de Nerbe"
+  },
+  {
+   "name": "Racine d'Abraknyde Ancestral"
+  },
+  {
+   "name": "Ambre Ancestral"
+  },
+  {
+   "name": "Écorce d'Abraknyde Ancestral"
+  },
+  {
+   "name": "Bois Envoûté"
+  },
+  {
+   "name": "Patte d'Abrakne Irascible"
+  },
+  {
+   "name": "Doigt de Branche Invocatrice"
+  },
+  {
+   "name": "Feuille de Branche Soignante"
+  },
+  {
+   "name": "Plume du Timansot"
+  },
+  {
+   "name": "Laine de Boufmouth"
+  },
+  {
+   "name": "Corne de Boufmouth de guerre"
+  },
+  {
+   "name": "Oreille de Bouftonmouth"
+  },
+  {
+   "name": "Poil de Chachachovage"
+  },
+  {
+   "name": "Pince de Crabe Hijacob"
+  },
+  {
+   "name": "Plume de Gélikan"
+  },
+  {
+   "name": "Étoffe de Rat Bougri"
+  },
+  {
+   "name": "Queue d'Ecumouth"
+  },
+  {
+   "name": "Poil de Smilomouth"
+  },
+  {
+   "name": "Rune Age"
+  },
+  {
+   "name": "Rune Cha"
+  },
+  {
+   "name": "Rune de chasse"
+  },
+  {
+   "name": "Rune Do"
+  },
+  {
+   "name": "Rune Do Air"
+  },
+  {
+   "name": "Rune Do Cri"
+  },
+  {
+   "name": "Rune Do Eau"
+  },
+  {
+   "name": "Rune Do Feu"
+  },
+  {
+   "name": "Rune Do Neutre"
+  },
+  {
+   "name": "Rune Do Per Ar"
+  },
+  {
+   "name": "Rune Do Per Di"
+  },
+  {
+   "name": "Rune Do Per Mé"
+  },
+  {
+   "name": "Rune Do Per So"
+  },
+  {
+   "name": "Rune Do Pou"
+  },
+  {
+   "name": "Rune Do Ren"
+  },
+  {
+   "name": "Rune Do Terre"
+  },
+  {
+   "name": "Rune Fo"
+  },
+  {
+   "name": "Rune Fui"
+  },
+  {
+   "name": "Rune Ine"
+  },
+  {
+   "name": "Rune Ini"
+  },
+  {
+   "name": "Rune Pa Age"
+  },
+  {
+   "name": "Rune Pa Cha"
+  },
+  {
+   "name": "Rune Pa Fo"
+  },
+  {
+   "name": "Rune Pa Ine"
+  },
+  {
+   "name": "Rune Pa Ini"
+  },
+  {
+   "name": "Rune Pa Pi Per"
+  },
+  {
+   "name": "Rune Pa Pod"
+  },
+  {
+   "name": "Rune Pa Prospe"
+  },
+  {
+   "name": "Rune Pa Pui"
+  },
+  {
+   "name": "Rune Pa Ré Air"
+  },
+  {
+   "name": "Rune Pa Ré Cri"
+  },
+  {
+   "name": "Rune Pa Ré Eau"
+  },
+  {
+   "name": "Rune Pa Ré Feu"
+  },
+  {
+   "name": "Rune Pa Ré Neutre"
+  },
+  {
+   "name": "Rune Pa Ré Pou"
+  },
+  {
+   "name": "Rune Pa Ré Terre"
+  },
+  {
+   "name": "Rune Pa Sa"
+  },
+  {
+   "name": "Rune Pa Vi"
+  },
+  {
+   "name": "Rune Pi"
+  },
+  {
+   "name": "Rune Pi Per"
+  },
+  {
+   "name": "Rune Pod"
+  },
+  {
+   "name": "Rune Prospe"
+  },
+  {
+   "name": "Rune Pui"
+  },
+  {
+   "name": "Rune Ra Age"
+  },
+  {
+   "name": "Rune Ra Cha"
+  },
+  {
+   "name": "Rune Ra Fo"
+  },
+  {
+   "name": "Rune Ra Ine"
+  },
+  {
+   "name": "Rune Ra Ini"
+  },
+  {
+   "name": "Rune Ra Pod"
+  },
+  {
+   "name": "Rune Ra Vi"
+  },
+  {
+   "name": "Rune Ré Air"
+  },
+  {
+   "name": "Rune Ré Cri"
+  },
+  {
+   "name": "Rune Ré Eau"
+  },
+  {
+   "name": "Rune Ré Feu"
+  },
+  {
+   "name": "Rune Ré Neutre"
+  },
+  {
+   "name": "Rune Ré Per Di"
+  },
+  {
+   "name": "Rune Ré Per Mé"
+  },
+  {
+   "name": "Rune Ré Pou"
+  },
+  {
+   "name": "Rune Ré Terre"
+  },
+  {
+   "name": "Rune Sa"
+  },
+  {
+   "name": "Rune Tac"
+  },
+  {
+   "name": "Rune Vi"
+  },
+  {
+   "name": "Pépite"
+  },
+  {
+   "name": "Rose des sables"
+  },
+  {
+   "name": "Palpe de Pikbul"
+  },
+  {
+   "name": "Peau de Gériatique"
+  },
+  {
+   "name": "Épine de Grath"
+  },
+  {
+   "name": "Oeil de Morcac"
+  },
+  {
+   "name": "Patte de Pupuce"
+  },
+  {
+   "name": "Jeton du Chazino du Grand Jeu"
+  },
+  {
+   "name": "Corne de Berserkoffre"
+  },
+  {
+   "name": "Corde de Boursoin"
+  },
+  {
+   "name": "Langue de Mimikado"
+  },
+  {
+   "name": "Moustache précieuse"
+  },
+  {
+   "name": "Antenne de Trésantène"
+  },
+  {
+   "name": "Jeton du Chazino Matougarous"
+  },
+  {
+   "name": "Pixel de Segmantid"
+  },
+  {
+   "name": "Relique du Corailleur Magistral"
+  },
+  {
+   "name": "Boule de Boulépique"
+  },
+  {
+   "name": "Queue de Fennex"
+  },
+  {
+   "name": "Oeil de Léolhyène"
+  },
+  {
+   "name": "Écailles d'Ouroboulos"
+  },
+  {
+   "name": "Queue de Scordion Bleu"
+  },
+  {
+   "name": "Rune de Signature"
+  },
+  {
+   "name": "Plume de Piou Bleu"
+  },
+  {
+   "name": "Plume de Piou Jaune"
+  },
+  {
+   "name": "Plume de Piou Rose"
+  },
+  {
+   "name": "Plume de Piou Rouge"
+  },
+  {
+   "name": "Plume de Piou Vert"
+  },
+  {
+   "name": "Plume de Piou Violet"
+  },
+  {
+   "name": "Graine de Sésame"
+  },
+  {
+   "name": "Boue Juvénile"
+  },
+  {
+   "name": "Jaune d'Oeuf de Krokille"
+  },
+  {
+   "name": "Flaque Juvénile"
+  },
+  {
+   "name": "Cendres Juvéniles"
+  },
+  {
+   "name": "Poudre Juvénile"
+  },
+  {
+   "name": "Fumée Juvénile"
+  },
+  {
+   "name": "Boue Novice"
+  },
+  {
+   "name": "Flaque Novice"
+  },
+  {
+   "name": "Cendres Novices"
+  },
+  {
+   "name": "Poudre Novice"
+  },
+  {
+   "name": "Fumée Novice"
+  },
+  {
+   "name": "Patte de Bouledogre"
+  },
+  {
+   "name": "Plume de Gobvious"
+  },
+  {
+   "name": "Dent de Molette"
+  },
+  {
+   "name": "Oreille de Rhinoféroce"
+  },
+  {
+   "name": "Serrure du Coffre des Forgerons"
+  },
+  {
+   "name": "Sceau Royal Contrefait"
+  },
+  {
+   "name": "Pièce du Trésor du Badoul"
+  },
+  {
+   "name": "Sac à Patates Sombre"
+  },
+  {
+   "name": "Pièce du Puzzle de la Griffe"
+  },
+  {
+   "name": "Sac à Patates Clair"
+  },
+  {
+   "name": "Tatouage de Mauvais Garçon"
+  },
+  {
+   "name": "Graine de la Discorde"
+  },
+  {
+   "name": "Chaînes Brisées"
+  },
+  {
+   "name": "Bougie du Mineur Sombre"
+  },
+  {
+   "name": "Bourse Suspecte"
+  },
+  {
+   "name": "Pic de Dragodinde"
+  },
+  {
+   "name": "Lait de Dragodinde"
+  },
+  {
+   "name": "Aile de Dragodinde"
+  },
+  {
+   "name": "Queue de Dragodinde"
+  },
+  {
+   "name": "Aile de Dragodinde Dorée"
+  },
+  {
+   "name": "Pic de Dragodinde Dorée"
+  },
+  {
+   "name": "Dent de Dragodinde"
+  },
+  {
+   "name": "Pic de Dragodinde Rousse Sauvage"
+  },
+  {
+   "name": "Sueur de dragodinde"
+  },
+  {
+   "name": "Queue de Dragodinde Rousse Sauvage"
+  },
+  {
+   "name": "Feuille de Kaliptus"
+  },
+  {
+   "name": "Fleur de Kaliptus"
+  },
+  {
+   "name": "Étoffe de Dok Alako"
+  },
+  {
+   "name": "Pierre Médicinale"
+  },
+  {
+   "name": "Boomerang du Dok Alako"
+  },
+  {
+   "name": "Peau de Drakoalak"
+  },
+  {
+   "name": "Crâne d'Aventurier"
+  },
+  {
+   "name": "Tibia de Koalak Fossoyeur"
+  },
+  {
+   "name": "Poils de Guerrier Koalak"
+  },
+  {
+   "name": "Poils de Koalak Coco"
+  },
+  {
+   "name": "Foulard de Koalak Farouche"
+  },
+  {
+   "name": "Poils de Koalak Forestier"
+  },
+  {
+   "name": "Poils de Koalak Griotte"
+  },
+  {
+   "name": "Poils de Koalak Indigo"
+  },
+  {
+   "name": "Poils de Koalak Reinette"
+  },
+  {
+   "name": "Houpette de Koalak Sanguin"
+  },
+  {
+   "name": "Peau de Maître Koalak"
+  },
+  {
+   "name": "Cubitus de Momie Koalak"
+  },
+  {
+   "name": "Os de Pékeualak"
+  },
+  {
+   "name": "Peau de Piralak"
+  },
+  {
+   "name": "Couche usagée de Warko Violet"
+  },
+  {
+   "name": "Laine du Boufcoul"
+  },
+  {
+   "name": "Cuir du Boufcoul"
+  },
+  {
+   "name": "Corne du Boufcoul"
+  },
+  {
+   "name": "Boomerang Abîmé de Diamantine"
+  },
+  {
+   "name": "Dédicace de Skeunk pour Émeraude"
+  },
+  {
+   "name": "Touffe de Poils de Rubise"
+  },
+  {
+   "name": "Épingle à Cheveux de Saphira"
+  },
+  {
+   "name": "Oeil d'Arakmuté"
+  },
+  {
+   "name": "Peau Égrotante"
+  },
+  {
+   "name": "Intestin d'araknosé"
+  },
+  {
+   "name": "Bec du Tofu"
+  },
+  {
+   "name": "Puces Sauteuses"
+  },
+  {
+   "name": "Bave Empoisonnée"
+  },
+  {
+   "name": "Oreille de Guerrier Mental"
+  },
+  {
+   "name": "Peau de Rat"
+  },
+  {
+   "name": "Crocs de Rats"
+  },
+  {
+   "name": "Rondelles de Milirat Strubien"
+  },
+  {
+   "name": "Peau de Ramane d'Égoutant"
+  },
+  {
+   "name": "Peau de Rat"
+  },
+  {
+   "name": "Laine de Ramane Strubien"
+  },
+  {
+   "name": "Oeil de Ramane Strubien"
+  },
+  {
+   "name": "Poil de Rat d'Égoutant"
+  },
+  {
+   "name": "Queue de Rat d'Hyoactif"
+  },
+  {
+   "name": "Cuir de Scélérat Strubien"
+  },
+  {
+   "name": "Crinière de Scélérat Strubien"
+  },
+  {
+   "name": "Bandelettes"
+  },
+  {
+   "name": "Bombe de Graboule"
+  },
+  {
+   "name": "Bourgeon de Pirolienne"
+  },
+  {
+   "name": "Couteau de Roukouto"
+  },
+  {
+   "name": "Roue de Tivelo"
+  },
+  {
+   "name": "Duvet de Nelween"
+  },
+  {
+   "name": "Oreilles de Croc Gland"
+  },
+  {
+   "name": "Queue de Croc Gland"
+  },
+  {
+   "name": "Papatte de Croc Gland"
+  },
+  {
+   "name": "Poils de Croc Gland"
+  },
+  {
+   "name": "Croquette"
+  },
+  {
+   "name": "Plume de Crowneille"
+  },
+  {
+   "name": "Moustache de Kolérat"
+  },
+  {
+   "name": "Poil d'Ouginak"
+  },
+  {
+   "name": "Babines de Macien"
+  },
+  {
+   "name": "Chaîne de l'Ouginak"
+  },
+  {
+   "name": "Pince de Scorbute"
+  },
+  {
+   "name": "Queue de scorbute"
+  },
+  {
+   "name": "Carapace de Scorbute"
+  },
+  {
+   "name": "Patte de Scorbute"
+  },
+  {
+   "name": "Oeil de Cocholou"
+  },
+  {
+   "name": "Canine de Mergranlou"
+  },
+  {
+   "name": "Queue du Mulou"
+  },
+  {
+   "name": "Griffe de Muloubard"
+  },
+  {
+   "name": "Poils de Mulounoké"
+  },
+  {
+   "name": "Os de Fantôme Léopardo"
+  },
+  {
+   "name": "Os de Fantôme Maho Firefoux"
+  },
+  {
+   "name": "Os de Fantôme Pandikaze"
+  },
+  {
+   "name": "Os de Fantôme Pandore"
+  },
+  {
+   "name": "Os de Fantôme Pandule"
+  },
+  {
+   "name": "Os de Fantôme Soryo Firefoux"
+  },
+  {
+   "name": "Os de Fantôme Tanukouï San"
+  },
+  {
+   "name": "Os de Fantôme Yokai Firefoux"
+  },
+  {
+   "name": "Poils de Léopardo"
+  },
+  {
+   "name": "Peau de Léopardo"
+  },
+  {
+   "name": "Poils de Maho Firefoux"
+  },
+  {
+   "name": "Peau de Maho Firefoux"
+  },
+  {
+   "name": "Peau de Soryo Firefoux"
+  },
+  {
+   "name": "Poils de Soryo Firefoux"
+  },
+  {
+   "name": "Poils de Yokai Firefoux"
+  },
+  {
+   "name": "Peau de Yokai Firefoux"
+  },
+  {
+   "name": "Peau de Kitsou Nae"
+  },
+  {
+   "name": "Poils de Kitsou Nae"
+  },
+  {
+   "name": "Peau de Kitsou Nakwa"
+  },
+  {
+   "name": "Poils de Kitsou Nakwa"
+  },
+  {
+   "name": "Peau de Kitsou Nere"
+  },
+  {
+   "name": "Poils de Kitsou Nere"
+  },
+  {
+   "name": "Peau de Kitsou Nufeu"
+  },
+  {
+   "name": "Poils de Daïgoro"
+  },
+  {
+   "name": "Patte d'Araknawa"
+  },
+  {
+   "name": "Oeuf d'Araknawa"
+  },
+  {
+   "name": "Brassard de Braconnier"
+  },
+  {
+   "name": "Peau de Cooleuvre"
+  },
+  {
+   "name": "Dent magique de Cooleuvre"
+  },
+  {
+   "name": "Poils de Pandore"
+  },
+  {
+   "name": "Peau de Pandore"
+  },
+  {
+   "name": "Poils de Pandikaze"
+  },
+  {
+   "name": "Peau de Pandikaze"
+  },
+  {
+   "name": "Étoffe de Pandikaze"
+  },
+  {
+   "name": "Griffe de Pandikaze Vertige"
+  },
+  {
+   "name": "Poils de Pandule"
+  },
+  {
+   "name": "Peau de Pandule"
+  },
+  {
+   "name": "Ambre de Bambouto"
+  },
+  {
+   "name": "Feuille de Bambouto"
+  },
+  {
+   "name": "Bois de Bambouto"
+  },
+  {
+   "name": "Racine Magique de Bambouto"
+  },
+  {
+   "name": "Feuille de Bambouto Sacré"
+  },
+  {
+   "name": "Ambre de Bambouto Sacré"
+  },
+  {
+   "name": "Bois de Bambouto Sacré"
+  },
+  {
+   "name": "Racine de Bulbambou"
+  },
+  {
+   "name": "Pousses de Bulbambou"
+  },
+  {
+   "name": "Écorce magique de Bulbambou"
+  },
+  {
+   "name": "Racine de Bulbiflore"
+  },
+  {
+   "name": "Écorce magique de Bulbiflore"
+  },
+  {
+   "name": "Racine de Bulbig"
+  },
+  {
+   "name": "Écorce magique de Bulbig"
+  },
+  {
+   "name": "Écorce magique de Bulbuisson"
+  },
+  {
+   "name": "Jeton du Bworker"
+  },
+  {
+   "name": "Peau de Bworkette"
+  },
+  {
+   "name": "Noix de Cajou"
+  },
+  {
+   "name": "Épaulette de Bwork"
+  },
+  {
+   "name": "Casque cassé de Bwork"
+  },
+  {
+   "name": "Ficelle en Lin"
+  },
+  {
+   "name": "Slip de Bwork Archer"
+  },
+  {
+   "name": "Scalp de Bwork Archer"
+  },
+  {
+   "name": "Poils de Barbe du Bwork Mage"
+  },
+  {
+   "name": "Livre du Bwork Mage"
+  },
+  {
+   "name": "Capsule Explosive"
+  },
+  {
+   "name": "Ivoire"
+  },
+  {
+   "name": "Peau de Cochon de Farle"
+  },
+  {
+   "name": "Silex"
+  },
+  {
+   "name": "Pierre de Crystaloboule"
+  },
+  {
+   "name": "Pierre du Craqueleur"
+  },
+  {
+   "name": "Dent en Or du Craqueleur"
+  },
+  {
+   "name": "Fragment de Pierre Pointue"
+  },
+  {
+   "name": "Coeur de Craqueleur"
+  },
+  {
+   "name": "Oeil de Craquelope"
+  },
+  {
+   "name": "Langue de Craquelope"
+  },
+  {
+   "name": "Fragment de Pierre Polie"
+  },
+  {
+   "name": "Méga Pierre du Craqueleur"
+  },
+  {
+   "name": "Charbon"
+  },
+  {
+   "name": "Ongle de Chevaucheur de Karne"
+  },
+  {
+   "name": "Dent de Karne"
+  },
+  {
+   "name": "Noix de Pécan"
+  },
+  {
+   "name": "Oreille de Douzdoa"
+  },
+  {
+   "name": "Gant de Martoa"
+  },
+  {
+   "name": "Oeil de Pikdoa"
+  },
+  {
+   "name": "Casque de Sherpoa"
+  },
+  {
+   "name": "Gelée de Dégelée"
+  },
+  {
+   "name": "Cuir de Déminoboule"
+  },
+  {
+   "name": "Poil de Gamino"
+  },
+  {
+   "name": "Corne de Gamino"
+  },
+  {
+   "name": "Peau de Kraméléhon"
+  },
+  {
+   "name": "Peau de Mandrine"
+  },
+  {
+   "name": "Peau de Minoskito"
+  },
+  {
+   "name": "Bandelette du Mominotor"
+  },
+  {
+   "name": "Carapace de Scaratos"
+  },
+  {
+   "name": "Plume du Serpiplume"
+  },
+  {
+   "name": "Carniflore"
+  },
+  {
+   "name": "Boules de Kanniboul"
+  },
+  {
+   "name": "Poupée Vaudou Ark"
+  },
+  {
+   "name": "Poupée Vaudou Eth"
+  },
+  {
+   "name": "Poupée Vaudou Jav"
+  },
+  {
+   "name": "Poupée Vaudou Sarbak"
+  },
+  {
+   "name": "Poupée Vaudou Tam"
+  },
+  {
+   "name": "Plume de Domoizelle"
+  },
+  {
+   "name": "Feuille de Fourbasse"
+  },
+  {
+   "name": "Bourgeon de Fourbasse"
+  },
+  {
+   "name": "Fleur de Gloutovore"
+  },
+  {
+   "name": "Glouto Rhum"
+  },
+  {
+   "name": "Trukikol Mort"
+  },
+  {
+   "name": "Noix de Grokoko Traumatisée"
+  },
+  {
+   "name": "Kokopaille"
+  },
+  {
+   "name": "Noix de Kokoko"
+  },
+  {
+   "name": "Tronc de Kokoko"
+  },
+  {
+   "name": "Tranche de Nodkoko"
+  },
+  {
+   "name": "Feuille de Tikoko"
+  },
+  {
+   "name": "Carapace Bleue"
+  },
+  {
+   "name": "Lait de Tortue"
+  },
+  {
+   "name": "Carapace Jaune"
+  },
+  {
+   "name": "Carapace Rouge"
+  },
+  {
+   "name": "Carapace Verte"
+  },
+  {
+   "name": "Caleçon Mignon du Pirate"
+  },
+  {
+   "name": "Boulet de Canondorf"
+  },
+  {
+   "name": "Rhum de Qualité"
+  },
+  {
+   "name": "Bandeau de Nakunbra"
+  },
+  {
+   "name": "Canif Rouillé"
+  },
+  {
+   "name": "Croupion du Bitouf aérien"
+  },
+  {
+   "name": "Bave du Kaskargo"
+  },
+  {
+   "name": "Cloaque du Poolay"
+  },
+  {
+   "name": "Morceau de caleçon de Gourlo"
+  },
+  {
+   "name": "Maillot de corps de Barbroussa"
+  },
+  {
+   "name": "Chicot du Flib"
+  },
+  {
+   "name": "Foulard du Sparo"
+  },
+  {
+   "name": "Coccyx du Corailleur"
+  },
+  {
+   "name": "Corail usé"
+  },
+  {
+   "name": "Nacre brute"
+  },
+  {
+   "name": "Pince de Crustorail"
+  },
+  {
+   "name": "Corail Kouraçao"
+  },
+  {
+   "name": "Corail Malibout"
+  },
+  {
+   "name": "Corail Morito"
+  },
+  {
+   "name": "Corail Passaoh"
+  },
+  {
+   "name": "Bulbe Kouraçao"
+  },
+  {
+   "name": "Pétale Kouraçao"
+  },
+  {
+   "name": "Bulbe Malibout"
+  },
+  {
+   "name": "Bulbe Morito"
+  },
+  {
+   "name": "Bulbe Passaoh"
+  },
+  {
+   "name": "Pétale Malibout"
+  },
+  {
+   "name": "Pétale Morito"
+  },
+  {
+   "name": "Pétale Passaoh"
+  },
+  {
+   "name": "Aile du Bitouf des Plaines"
+  },
+  {
+   "name": "Fragment de cerveau poli"
+  },
+  {
+   "name": "Plume de fesse du Kido"
+  },
+  {
+   "name": "Duvet du Kilibriss"
+  },
+  {
+   "name": "Moustache du Mufafah"
+  },
+  {
+   "name": "Dent de Bourbassingue"
+  },
+  {
+   "name": "Bave de Ouassingue"
+  },
+  {
+   "name": "Étoffe de Ouassingue"
+  },
+  {
+   "name": "Cuir de Ouassingue"
+  },
+  {
+   "name": "Estomac de Ouassingue"
+  },
+  {
+   "name": "Vieille Ventouse de Kralamoure"
+  },
+  {
+   "name": "Enfumoir Zoth"
+  },
+  {
+   "name": "Étoffe Zoth"
+  },
+  {
+   "name": "Jouet de Gamine Zoth"
+  },
+  {
+   "name": "Pierre Précieuse Zoth"
+  },
+  {
+   "name": "Calumet Zoth"
+  },
+  {
+   "name": "Boulier Zoth"
+  },
+  {
+   "name": "Sacrum magistral"
+  },
+  {
+   "name": "Poil d'Abrakne"
+  },
+  {
+   "name": "Ambre"
+  },
+  {
+   "name": "Écorce d'Abrakne Sombre"
+  },
+  {
+   "name": "Écorce d'Abraknyde"
+  },
+  {
+   "name": "Bourgeon d'Abraknyde"
+  },
+  {
+   "name": "Racine d'Abraknyde"
+  },
+  {
+   "name": "Ambre d'Abraknyde"
+  },
+  {
+   "name": "Racine d'Abraknyde Sombre"
+  },
+  {
+   "name": "Bourgeon d'Abraknyde Sombre Irascible"
+  },
+  {
+   "name": "Racine d'Abraknyde Vénérable"
+  },
+  {
+   "name": "Masque Brisé d'Araknotron"
+  },
+  {
+   "name": "Masque Cassé d'Araknotron Irascible"
+  },
+  {
+   "name": "Bois de Tronknyde"
+  },
+  {
+   "name": "Sourcils de Tronknyde"
+  },
+  {
+   "name": "Cervelle de Courtilieur"
+  },
+  {
+   "name": "Soie chatoyante"
+  },
+  {
+   "name": "Dynamo mineure"
+  },
+  {
+   "name": "Jeton du Chazino Ecaflipuces"
+  },
+  {
+   "name": "Eau calme"
+  },
+  {
+   "name": "Oeil de Harpo"
+  },
+  {
+   "name": "Échasse de Molette"
+  },
+  {
+   "name": "Carte au trésor des Boulangers Sombres"
+  },
+  {
+   "name": "Carte au trésor des Mineurs Sombres"
+  },
+  {
+   "name": "Aile de Dragodinde Rousse Sauvage"
+  },
+  {
+   "name": "Poils d'Arakne Malade"
+  },
+  {
+   "name": "Parchemin de Sort Invocation d'Arakne"
+  },
+  {
+   "name": "Museau de Rat Luisant"
+  },
+  {
+   "name": "Tissu de Graboule"
+  },
+  {
+   "name": "Étoffe de Croc Gland"
+  },
+  {
+   "name": "Graine de Scorbute"
+  },
+  {
+   "name": "Sang de Scorbute"
+  },
+  {
+   "name": "Artefact Pandawushu Eau"
+  },
+  {
+   "name": "Artefact Pandawushu Terre"
+  },
+  {
+   "name": "Artefact Pandawushu Feu"
+  },
+  {
+   "name": "Artefact Pandawushu Air"
+  },
+  {
+   "name": "Piere à Aiguiser"
+  },
+  {
+   "name": "Cuir Noir"
+  },
+  {
+   "name": "Étoffe de Pandule"
+  },
+  {
+   "name": "Racine de Bulbig Brozeur"
+  },
+  {
+   "name": "Écorce magique de Bulbig Brozeur"
+  },
+  {
+   "name": "Fleur de Bulbiflore"
+  },
+  {
+   "name": "Feuille de Bulbuisson"
+  },
+  {
+   "name": "Racine de Bulbuisson"
+  },
+  {
+   "name": "Protection usagée du Bworker"
+  },
+  {
+   "name": "Cuir du Dragon Cochon"
+  },
+  {
+   "name": "Peau de Don Dorgan"
+  },
+  {
+   "name": "Peau de Don Duss Ang"
+  },
+  {
+   "name": "Cuir de Porsalu"
+  },
+  {
+   "name": "Pierre du Craqueleur Légendaire"
+  },
+  {
+   "name": "Pierre de Diamant"
+  },
+  {
+   "name": "Peau de Gobelin"
+  },
+  {
+   "name": "Pierre de Granit"
+  },
+  {
+   "name": "Queue de Minotoror"
+  },
+  {
+   "name": "Langue de Kraméléhon"
+  },
+  {
+   "name": "Oeil de Mandrine"
+  },
+  {
+   "name": "Plume de Dostrogo"
+  },
+  {
+   "name": "Étoffe de Gourlo le Terrible"
+  },
+  {
+   "name": "Coffret maudit du Flib"
+  },
+  {
+   "name": "Jus de Ouassingue"
+  },
+  {
+   "name": "Mouchoir de la Gamine Zoth"
+  },
+  {
+   "name": "Coco du Bitouf Sombre"
+  },
+  {
+   "name": "Amygdales du Bitouf Sombre"
+  },
+  {
+   "name": "Oeil d'Abrakne"
+  },
+  {
+   "name": "Ambre d'Abraknyde Sombre"
+  },
+  {
+   "name": "Écorce d'Abraknyde Vénérable"
+  },
+  {
+   "name": "Arakne Écrabouillée"
+  }
+ ]
+}
